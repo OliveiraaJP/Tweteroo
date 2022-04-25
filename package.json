@@ -1,0 +1,30 @@
+{
+  "name": "projeto11-tweteroo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliveiraaJP/Tweteroo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliveiraaJP/Tweteroo/issues"
+  },
+  "homepage": "https://github.com/OliveiraaJP/Tweteroo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
